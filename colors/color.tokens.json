@@ -1,0 +1,107 @@
+{
+  "colors": {
+    "accents": {
+      "black": {
+        "value": "rgb(18, 9, 27)"
+      },
+      "blue": {
+        "value": "rgb(0, 175, 245)"
+      },
+      "gold": {
+        "value": "rgb(237, 178, 29)"
+      },
+      "red": {
+        "value": "rgb(255, 31, 31)"
+      },
+      "white": {
+        "value": "rgb(253, 251, 254)"
+      }
+    },
+    "bg-style": {
+      "value": "rgb(255, 255, 255)"
+    },
+    "grey": {
+      "p-1000": {
+        "value": "rgb(43, 36, 49)"
+      },
+      "p-200": {
+        "value": "rgb(237, 234, 240)"
+      },
+      "p-400": {
+        "value": "rgb(151, 151, 151)"
+      },
+      "p-600": {
+        "value": "rgb(99, 95, 103)"
+      },
+      "p-800": {
+        "value": "rgb(73, 67, 80)"
+      }
+    },
+    "highlight": {
+      "purple": {
+        "value": "rgb(223, 210, 238)"
+      },
+      "red": {
+        "value": "rgb(231, 209, 209)"
+      }
+    },
+    "input": {
+      "border": {
+        "bottom": {
+          "active": {
+            "value": "rgb(255, 255, 255)"
+          },
+          "default": {
+            "value": "rgb(255, 255, 255)"
+          },
+          "disabled": {
+            "value": "rgb(237, 234, 240)"
+          },
+          "error": {
+            "value": "rgb(231, 209, 209)"
+          },
+          "focus": {
+            "value": "rgb(253, 251, 254)"
+          }
+        },
+        "full": {
+          "active": {
+            "value": "rgb(255, 255, 255)"
+          },
+          "default": {
+            "value": "rgb(255, 255, 255)"
+          },
+          "disabled": {
+            "value": "rgb(237, 234, 240)"
+          },
+          "error": {
+            "value": "rgb(231, 209, 209)"
+          },
+          "focus": {
+            "value": "rgb(255, 255, 255)"
+          }
+        }
+      }
+    },
+    "purple": {
+      "p-1000": {
+        "value": "rgb(31, 14, 47)"
+      },
+      "p-200": {
+        "value": "rgb(126, 75, 189)"
+      },
+      "p-400": {
+        "value": "rgb(97, 55, 150)"
+      },
+      "p-600": {
+        "value": "rgb(70, 33, 105)"
+      },
+      "p-800": {
+        "value": "rgb(52, 23, 79)"
+      }
+    },
+    "test": {
+      "value": "rgb(63, 150, 225)"
+    }
+  }
+}

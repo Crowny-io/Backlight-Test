@@ -1,6 +1,6 @@
 {
   "name": "@backlight-dev/stop-blot-q6sdv.vue3-kzmock3k",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "",
   "license": "MIT",
   "type": "module",
@@ -17,9 +17,5 @@
     "lit": "^2.0.2",
     "prettier": "^2.3.2",
     "@vue/test-utils": "2.0.0-rc.17"
-  },
-  "exports": {
-    ".": "index.js",
-    "./button": "/button/src/Button.vue"
   }
 }

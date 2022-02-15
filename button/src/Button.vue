@@ -36,7 +36,7 @@ button {
   font-weight: var(--vue-font-weight-button);
   letter-spacing: var(--vue-letter-spacing-button);
   text-transform: uppercase;
-  color: var(--color-accents-white);
+  color: var(--vue-color-text-on-primary);
   background-color: var(--color-purple-p-600);
   cursor: pointer;
 
@@ -47,7 +47,7 @@ button {
 
   &:hover {
     background-color: var(--color-purple-p-800);
-    color: var(--color-accents-white);
+    color: var(--vue-color-text-on-primary);
     border-color: var(--color-purple-p-800);
   }
 }
