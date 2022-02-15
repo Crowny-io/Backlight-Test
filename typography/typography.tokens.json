@@ -1,0 +1,74 @@
+{
+  "paragraph": {
+    "black": {
+      "base": {
+        "font-family": {
+          "value": "Inter"
+        },
+        "font-size": {
+          "value": "16"
+        },
+        "font-style": {
+          "value": "normal"
+        },
+        "font-weight": {
+          "value": "400"
+        },
+        "line-height": {
+          "value": "22"
+        }
+      },
+      "large": {
+        "font-family": {
+          "value": "Inter"
+        },
+        "font-size": {
+          "value": "18"
+        },
+        "font-style": {
+          "value": "normal"
+        },
+        "font-weight": {
+          "value": "400"
+        },
+        "line-height": {
+          "value": "24"
+        }
+      },
+      "mini": {
+        "font-family": {
+          "value": "Inter"
+        },
+        "font-size": {
+          "value": "12"
+        },
+        "font-style": {
+          "value": "normal"
+        },
+        "font-weight": {
+          "value": "400"
+        },
+        "line-height": {
+          "value": "18"
+        }
+      },
+      "small": {
+        "font-family": {
+          "value": "Inter"
+        },
+        "font-size": {
+          "value": "14"
+        },
+        "font-style": {
+          "value": "normal"
+        },
+        "font-weight": {
+          "value": "400"
+        },
+        "line-height": {
+          "value": "20"
+        }
+      }
+    }
+  }
+}

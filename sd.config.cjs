@@ -1,6 +1,6 @@
-const tokenCategories = ['colors'];
-
+const tokenCategories = ['colors', 'icons', 'typography'];
 const tokenFilter = (cat) => (token) => token.attributes.category === cat;
+
 const generateFilesArr = (tokensCategories) => {
   return tokensCategories.map((cat) => ({
     filter: tokenFilter(cat),
@@ -9,12 +9,12 @@ const generateFilesArr = (tokensCategories) => {
   }));
 };
 
-export default {
+module.exports = {
   source: ['**/*.tokens.json'],
   platforms: {
     scss: {
       transformGroup: 'scss',
-      buildPath: '/',
+      buildPath: './',
       files: generateFilesArr(tokenCategories),
     },
   },
