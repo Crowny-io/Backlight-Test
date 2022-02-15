@@ -1,0 +1,36 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      "introduction",
+      [
+        "tokens",
+        [
+          "typography",
+          "colors",
+          "spacing",
+          "elevation",
+          "border-radius",
+          "transition",
+          "z-index",
+          "theme"
+        ]
+      ],
+      [
+        "components",
+        [
+          "button"
+        ]
+      ],
+      [
+        "infrastructure",
+        [
+          "doc-layout"
+        ]
+      ]
+    ]
+  },
+  "dependencies": {
+    "autoInstall": true
+  }
+}

@@ -1,0 +1,16 @@
+// WIP: Define dark theme variant
+@mixin dark {
+  color-scheme: dark;
+
+  --doc-color-background: var(--color-slate-900);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    @include dark;
+  }
+}
+
+[color-scheme='dark'] {
+  @include dark;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@backlight-dev/stop-blot-q6sdv.vue3-kzmock3k",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve r0B7iAQJsztOkaa3UaHc --open"
+  },
+  "dependencies": {
+    "@babel/runtime": "latest",
+    "vue": "^3.1.4"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.6.4",
+    "lit": "^2.0.2",
+    "prettier": "^2.3.2",
+    "@vue/test-utils": "2.0.0-rc.17"
+  },
+  "exports": {
+    ".": "index.js",
+    "./button": "/button/src/Button.vue"
+  }
+}

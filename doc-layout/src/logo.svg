@@ -1,0 +1,27 @@
+<svg width="230" height="100" viewBox="0 0 230 100">
+  <!-- based on https://vuejs.org/images/logo.svg -->
+  <g>
+    <path
+      d="M 70.8 0 L 57.5 23.1 L 44.2 0 L 0 0 L 57.5 100 L 115 0 Z M 70.8 0"
+      fill="#41b883"
+    />
+    <path
+      d="M 70.8 0 L 57.5 23.1 L 44.2 0 L 23 0 L 57.5 60 L 92 0 Z M 70.8 0"
+      fill="#34495e"
+    />
+  </g>
+  <!-- based on https://nuxtjs.org/design-kit/colored-logo.svg -->
+  <g>
+    <path
+      transform="matrix(1.5,0,0,1.6,-62.2,-25.8)"
+      d="M 141.8 19.7 C 139.2 15.2 132.7 15.2 130.1 19.7 L 101.7 68.4 C 99.1 72.9 102.4 78.4 107.6 78.4 L 129.7 78.4 C 127.5 76.5 126.7 73.1 128.3 70.3 L 149.8 33.5 Z M 141.8 19.7"
+      fill="#80eec0"
+      fill-rule="evenodd"
+    />
+    <path
+      transform="matrix(1.5,0,0,1.6,-83.2,-29.8)"
+      d="M 174.2 33 C 176.4 29.3 181.7 29.3 183.9 33 L 207.3 72.8 C 209.5 76.5 206.8 81 202.5 81 L 155.6 81 C 151.3 81 148.6 76.5 150.8 72.8 Z M 174.2 33"
+      fill="#00dc82"
+    />
+  </g>
+</svg>
